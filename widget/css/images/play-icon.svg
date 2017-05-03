@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="14574 11304 1920 1069">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Play_Icon);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-width: 15px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Play_Icon">
+      <rect x="14574" y="11304" width="1920" height="1069"/>
+    </clipPath>
+  </defs>
+  <g id="Play_Icon" data-name="Play Icon" class="cls-1">
+    <!--<rect x="14574" y="11304" width="1920" height="1069"/>-->
+    <path id="play" class="cls-2" d="M5187,6138.518V6505.3l261.155-183.615Zm32.641,63.424,170.846,120.191-170.846,120.162Z" transform="translate(10241.721 5516.173)"/>
+    <g id="Ellipse_76" data-name="Ellipse 76" class="cls-3" transform="translate(15166 11471)">
+      <circle class="cls-4" cx="367.52" cy="367.52" r="367.52"/>
+      <circle class="cls-5" cx="367.52" cy="367.52" r="360.02"/>
+    </g>
+  </g>
+</svg>
